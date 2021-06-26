@@ -83,9 +83,9 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {t('PancakeSwap')}
+          {t('Fortnite Farm')}
         </Heading>
-        <Text>{t('The #1 AMM and yield farm on Binance Smart Chain.')}</Text>
+        <Text>{t('The #1 yield farm on Polygon.')}</Text>
       </Hero>
       <div>
         <Cards>
