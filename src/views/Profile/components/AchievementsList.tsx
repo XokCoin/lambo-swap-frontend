@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading } from '@pancakeswap-libs/uikit'
+import { Flex, Heading } from '@XokCoin/FortniteFarm-ToolKit/tree/master/packages/pancake-uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useAchievements } from 'state/hooks'
 import AchievementCard from './AchievementCard'

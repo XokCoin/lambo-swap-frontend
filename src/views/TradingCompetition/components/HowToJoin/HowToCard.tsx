@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody } from '@pancakeswap-libs/uikit'
+import { Heading, Card, CardBody } from '@XokCoin/FortniteFarm-ToolKit/tree/master/packages/pancake-uikit'
 
 interface HowToCardProps {
   number?: number

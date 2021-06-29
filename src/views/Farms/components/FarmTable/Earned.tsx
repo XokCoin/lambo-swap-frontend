@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Skeleton } from '@pancakeswap-libs/uikit'
+import { Skeleton } from '@XokCoin/FortniteFarm-ToolKit/tree/master/packages/pancake-uikit'
 
 export interface EarnedProps {
   earnings: number

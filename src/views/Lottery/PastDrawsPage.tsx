@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { BaseLayout } from '@pancakeswap-libs/uikit'
+import { BaseLayout } from '@XokCoin/FortniteFarm-ToolKit/tree/master/packages/pancake-uikit'
 import PastLotteryRoundViewer from './components/PastLotteryRoundViewer'
 import PastDrawsHistoryCard from './components/PastDrawsHistory/PastDrawsHistoryCard'
 import ClaimPrizesCard from './components/ClaimPrizesCard'
